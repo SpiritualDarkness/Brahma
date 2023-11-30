@@ -1,0 +1,5 @@
+<Project>
+  <Panel Background="#FFFFFFFF" >
+    <Label Text="Brahma" TextColor="#FF9503FF" Top="131" HorizontalAlignment="Center" Scale="2, 2" />
+  </Panel>
+</Project>
