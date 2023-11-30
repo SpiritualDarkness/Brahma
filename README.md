@@ -10,3 +10,5 @@ Riptide | MIT | 网络通信
 Unity | Apache License 2.0 | 依赖注入
 NLog | BSD-3-Clause | 日志
 FairyGUI | MIT | GUI
+FastNoiseLit | MIT | 噪声
+Newtonsoft.Json | MIT | Json数据处理 
